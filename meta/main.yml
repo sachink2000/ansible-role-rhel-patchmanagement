@@ -1,9 +1,7 @@
 galaxy_info:
-  author: Joerg Kastning
+  author: Sachin Kadam
   description: Patchmanagement for Red Hat Enterprise Linux.
-  company: Bielefeld University
-
-  license: MIT
+  company: NA
 
   min_ansible_version: 2.3
 
